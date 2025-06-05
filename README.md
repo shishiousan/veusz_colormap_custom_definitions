@@ -3,6 +3,7 @@
 This repository contains custom colormap definitions for use with
 [Veusz](https://veusz.github.io/), a scientific plotting software.
 You can use awesome colormaps proposed by [Fabio Crameri](https://www.fabiocrameri.ch/colourmaps/)
+and [Peter Kovesi](https://colorcet.com/index.html)
 in Veusz.
 I hope this will help you to create high-quality scientific plots :)
 
